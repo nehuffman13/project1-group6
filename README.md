@@ -3,10 +3,11 @@
 
 # Project Description/Outline
 Our group conducted Chicago property crime analysis from 2018 to present to answer the following questions: 
-1. Does higher property value mean higher property crime? 2019.1.1-2020.9.31
-2. Does COVID19 ‘Stay-At-Home’ order in April 2020 influence crime rate? 
-3. In what zip code, there is the most crimes reported?
-4. In what zip code, there is the least crimes reported?
+1. Does crime rate go up when property value is in the lower range?
+2. Does the time of day have an effect when property crime take place?
+3. Does COVID19 ‘Stay-At-Home’ order in April 2020 influence crime rate? 
+4. In what zip code, there is the most crimes reported?
+
 
 # Data Collection
 Chicago Property Data: https://www.zillow.com/research/data/
